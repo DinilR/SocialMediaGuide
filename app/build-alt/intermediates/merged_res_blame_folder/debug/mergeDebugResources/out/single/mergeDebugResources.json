@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.socialmediaguide.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.socialmediaguide.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.socialmediaguide.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.socialmediaguide.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.socialmediaguide.app-debug-46:/xml_guard_service.xml.flat",
+        "source": "com.socialmediaguide.app-debug-47:/xml/guard_service.xml"
+    }
+]

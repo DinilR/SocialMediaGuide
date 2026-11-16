@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only these apps' events are delivered to the service (see GuardedApp). -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:packageNames="com.google.android.youtube,com.instagram.android,com.facebook.katana,com.zhiliaoapp.musically,com.ss.android.ugc.trill,com.zhiliaoapp.musically.go"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewScrolled"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="false"
+    android:notificationTimeout="100"
+    android:isAccessibilityTool="false"
+    android:description="@string/service_description"
+    android:summary="@string/service_summary" />

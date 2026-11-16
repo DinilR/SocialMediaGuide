@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Social Media Guide</string>
+    <string name="service_label">Social Media Guide</string>
+    <string name="service_summary">Stops doomscrolling in YouTube, Instagram, Facebook and TikTok</string>
+    <string name="service_description">Social Media Guide watches only the YouTube, Instagram, Facebook and TikTok apps. It checks which screen is open and when you scroll, so it can cover endless feeds such as related videos, Shorts, Reels, Explore, the Facebook Video tab and the TikTok video feed. It stores nothing it sees and never sends anything off your phone.</string>
+</resources>

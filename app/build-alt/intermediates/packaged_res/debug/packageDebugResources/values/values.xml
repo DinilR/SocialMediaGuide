@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF6C4BFF</color>
+    <color name="window_background">#FF14121F</color>
+    <string name="app_name">Social Media Guide</string>
+    <string name="service_description">Social Media Guide watches only the YouTube, Instagram, Facebook and TikTok apps. It checks which screen is open and when you scroll, so it can cover endless feeds such as related videos, Shorts, Reels, Explore, the Facebook Video tab and the TikTok video feed. It stores nothing it sees and never sends anything off your phone.</string>
+    <string name="service_label">Social Media Guide</string>
+    <string name="service_summary">Stops doomscrolling in YouTube, Instagram, Facebook and TikTok</string>
+    <style name="Theme.SocialMediaGuide" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
