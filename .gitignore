@@ -11,3 +11,9 @@
 .kotlin/
 
 testapp/build-alt/
+/testapp/build/
+
+# Non-code docs / notes
+/DESIGN.md
+/HOW_IT_WORKS.md
+/requirement.txt

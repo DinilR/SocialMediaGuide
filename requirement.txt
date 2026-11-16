@@ -1,3 +1,0 @@
-An andoid application which restricts doomscrolling of social media applications
-In the first step it should start with Youtube
-It should let the user go to the videos that you see in the feed or go from links or go from searching but when you watch that and scroll downwards it should restrict the user from viewing videos that let the user to doom scroll

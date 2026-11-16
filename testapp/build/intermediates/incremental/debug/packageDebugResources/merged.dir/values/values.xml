@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="home_feed" type="id"/>
-    <item name="list" type="id"/>
-    <item name="reel_player_page_container" type="id"/>
-    <item name="reel_recycler" type="id"/>
-    <item name="watch_player" type="id"/>
-    <item name="youtube_logo" type="id"/>
-</resources>
